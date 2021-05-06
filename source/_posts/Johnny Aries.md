@@ -3,7 +3,7 @@ title: Johnny Aries
 date: 2021-04-302 15:57:48
 tags: music
 excerpt: 歌手推荐（Johnny Aries）
-cover: https://uploader.shimo.im/f/iXrDBqqF8vB0mx07.jpg!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2MTk3NzM0MzYsImciOiJnOENKd2N0eXh4V0pQcmNwIiwiaWF0IjoxNjE5NzcxNjM2LCJ1IjoxMDAzMzM3Mn0.xdZRIjcE8oBERqwppd9v2L7iWsx6TYVW2_16OeDl-Wc
+cover: /img/johnny.jpg
 categories:
   - 音乐
 ---
